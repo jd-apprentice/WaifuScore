@@ -1,5 +1,6 @@
 # Trabajo pequeño de practica para empezar con react
 
+- Nodejs para levantar el servidor
 - Hecho para empezar a entender react desde lo mas basico, todo esto leyendo la documentacion oficial
 - Uso de JSX
 - Renderizado de elementos
